@@ -2,6 +2,10 @@
 cleaned_recipes.csv
 cleaned_recipes_final.csv
 recipes.csv
+package.json
+package-lock.json
+yarn.lock
+tailwind.config.js
 
 # Logs
 logs
